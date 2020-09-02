@@ -23,3 +23,14 @@
 7. Declare arrays in two different ways. At least one one-dimensional and one multidimensional array.
 8. Sort an arbitrary integer array. Use any algorithm you like.
 9. Print out a two-dimensional array.
+
+~~~java
+int test = 1;
+~~~
+
+
+` single line code `
+
+
+> Notiz
+
