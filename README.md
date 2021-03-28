@@ -1,5 +1,7 @@
 # Recap Basics
 
+Karin: Meine Antworten sind im pdf-Dokument.
+
 1. Which data types do you know and how are they to be declared?
 2. Declare and initialise a variable with a certain value (pay attention to the correct syntax). Overwrite the value with another value.
 3. Which operators do you know in detail (logical, relational, and mathematical)?
